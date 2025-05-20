@@ -18,6 +18,7 @@ Please refer to the [YOPO-Sim]().
 The terrain is exported as the point cloud map, and is then processed by TTA (Terrain Type Analysis) to generate the cost map.
 
 <!-- Video -->
+https://github.com/user-attachments/assets/9114d64a-cec4-42c8-93c3-7d9c15ee0e10
 
 ### Data Acquisition
 The depth image, position, and orientation of the vehicle are recorded in the simulator.
@@ -28,11 +29,13 @@ The depth image, position, and orientation of the vehicle are recorded in the si
 Cone constraints are applied to each primitive anchor to confine the trajectory within the neural network’s output range.
 
 <!-- Video -->
+https://github.com/user-attachments/assets/d9902d38-5c5b-4b8a-aec8-42a6decb11fb
 
 ## Inference
 The planner inputs depth image, velocity, goal vector, and outputs the candidate trajectories with the corresponding cost.
 
 <!-- Video -->
+https://github.com/user-attachments/assets/a4583249-a9d8-4ef8-8d7d-87dd9a78e298
 
 ## Experiments
 Please refer to the [YOPO-Rally Video]() for the experiment results.
