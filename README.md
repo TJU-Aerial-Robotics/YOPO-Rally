@@ -5,6 +5,7 @@ A Sim-to-Real Single-Stage Planner for Off-Road Terrain
 >
 > The code will be released soon.
 
+Video: [YOPO-Rally Video]()
 ## System Overview
 ![System Overview](.media/system-overview.svg)
 
