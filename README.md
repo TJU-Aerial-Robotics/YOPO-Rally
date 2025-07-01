@@ -1,14 +1,15 @@
 # YOPO-Rally
 A Sim-to-Real Single-Stage Planner for Off-Road Terrain
 
-# News
-- **2025-7-1**: [YOPO-Sim](https://github.com/TJU-Aerial-Robotics/YOPO-Sim.git), an off-road vehicle simulator, is released.
-
 > \[!NOTE]
 >
 > The code will be released soon.
 
 Video: [YouTube](https://youtu.be/dyoufaKgVa0), [Bilibili](https://www.bilibili.com/video/BV1D1V7zQEWr)
+
+## News
+- **2025-7-1**: [YOPO-Sim](https://github.com/TJU-Aerial-Robotics/YOPO-Sim.git), the off-road vehicle simulator, is released.
+
 ## System Overview
 ![System Overview](.media/system-overview.svg)
 
